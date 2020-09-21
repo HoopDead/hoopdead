@@ -26,4 +26,8 @@
 <img alt="Jquery" src="https://img.shields.io/badge/-Jquery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
 </h5>
 
-<h5>My Github and 
+<h5>My programming life in stats and numbers:
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoopdead&count_private=true)
+
+</h5>
