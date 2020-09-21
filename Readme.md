@@ -27,7 +27,7 @@
 </h5>
 
 <h5>My programming life in stats and numbers:
-
+<br></br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoopdead&count_private=true)
-
+<img alt = "CodeWars" src = "https://www.codewars.com/users/HoopDead/badges/large">
 </h5>
