@@ -28,5 +28,5 @@
 
 <h5>My programming life in stats and numbers:
 <br></br>
-![HoopDead's github stats](https://github-readme-stats.vercel.app/api?username=hoopdead&count_private=true)
+<img alt = "" src = "https://github-readme-stats.vercel.app/api?username=hoopdead&count_private=true">
 </h5>
