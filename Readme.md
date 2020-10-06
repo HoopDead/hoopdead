@@ -24,6 +24,7 @@
 <img alt="SASS" src="https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-f0f0f0?style=flat-square&logo=flask&logoColor=black" />
 <img alt="Jquery" src="https://img.shields.io/badge/-Jquery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
+<img alt="CPP" src="https://img.shields.io/badge/-C++-0723ad?style=flat-square&logo=c&logoColor=white" />
 </h5>
 
 <h5>My programming life in stats and numbers:
